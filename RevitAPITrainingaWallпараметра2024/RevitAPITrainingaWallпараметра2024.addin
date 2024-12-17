@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPITrainingaWallпараметра2024.dll"</Assembly>
+		<AddInId>A721CFAD-8664-451D-973B-4EE58821D56B</AddInId>
+		<FullClassName>RevitAPITrainingaWallпараметра2024.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Копирование параметров стены</Text>
+	</AddIn>
+</RevitAddIns>
